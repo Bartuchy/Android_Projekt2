@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_baseline_delete_24" />
+    <drawable name="ic_baseline_add_24" />
+    <drawable name="ic_baseline_cancel_24" />
+</resources>
